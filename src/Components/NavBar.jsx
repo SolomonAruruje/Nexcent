@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../assets/logo.svg";
+import Logo from "../assets/Logo.svg";
 import Rightarrow from "../assets/Brightarrow.svg";
 import Responsive from "../assets/responsive.svg";
 
