@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import illustration from '../assets/illustration.svg';
+import illustration from '../assets/Illustration.svg';
 import ScrlButton from '../assets/Ellipse 6.svg'
 
 const Banner = () => {
