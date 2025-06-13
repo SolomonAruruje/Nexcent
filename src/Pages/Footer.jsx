@@ -31,21 +31,21 @@ const Footer = () => {
                     <div>
                       <ul className='flex flex-col md:w-[120px] md:mr-12'>
                       <li className='text-[13.92px]/[19.49px] font-semibold text-white mb-5'>Company</li>
-                      <li className='text-[9.74px]/[13.92px] text-white mb-2.5'>About us</li>
-                      <li className='text-[9.74px]/[13.92px] text-white mb-2.5'>Blog</li>
-                      <li className='text-[9.74px]/[13.92px] text-white mb-2.5'>Contact us</li>
-                      <li className='text-[9.74px]/[13.92px] text-white mb-2.5'>Pricing</li>
-                      <li className='text-[9.74px]/[13.92px] text-white '>Testimonials</li>
+                      <a href='#' className='text-[9.74px]/[13.92px] text-white mb-2.5'>About us</a>
+                      <a href='#' className='text-[9.74px]/[13.92px] text-white mb-2.5'>Blog</a>
+                      <a href='#' className='text-[9.74px]/[13.92px] text-white mb-2.5'>Contact us</a>
+                      <a href='#' className='text-[9.74px]/[13.92px] text-white mb-2.5'>Pricing</a>
+                      <a href='#' className='text-[9.74px]/[13.92px] text-white '>Testimonials</a>
                       </ul>
                     </div>
                     <div>
                       <ul className='flex flex-col md:w-[120px] md:mr-12 mt-6 md:mt-0'>
                       <li className='text-[13.92px]/[19.49px] font-semibold text-white mb-5'>Support</li>
-                      <li className='text-[9.74px]/[13.92px] text-white mb-2.5'>Help center</li>
-                      <li className='text-[9.74px]/[13.92px] text-white mb-2.5'>Terms of service</li>
-                      <li className='text-[9.74px]/[13.92px] text-white mb-2.5'>Legal</li>
-                      <li className='text-[9.74px]/[13.92px] text-white mb-2.5'>Privacy policy</li>
-                      <li className='text-[9.74px]/[13.92px] text-white '>Status</li>
+                      <a href='#' className='text-[9.74px]/[13.92px] text-white mb-2.5'>Help center</a>
+                      <a href='#' className='text-[9.74px]/[13.92px] text-white mb-2.5'>Terms of service</a>
+                      <a href='#' className='text-[9.74px]/[13.92px] text-white mb-2.5'>Legal</a>
+                      <a href='#' className='text-[9.74px]/[13.92px] text-white mb-2.5'>Privacy policy</a>
+                      <a href='#' className='text-[9.74px]/[13.92px] text-white '>Status</a>
                       </ul>
                     </div>
                     <div>
