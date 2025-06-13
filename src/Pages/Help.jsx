@@ -6,7 +6,7 @@ import payments from '../assets/Payments.svg'
 
 const Help = () => {
   return (
-    <div className='bg-[#F5F7FA] py-11 mb-10'>
+    <div className='bg-[#F5F7FA] py-11 mb-10 overflow-x-hidden'>
         <div className='md:w-[70%] flex flex-col md:flex-row items-center justify-self-center'>
         <div className='w-[50%] sm:w-[] flex-wrap'>
             <h3 className='text-[25.06px]/[30.63px] text-[#4D4D4D] font-semibold'>Helping a local <span className='text-[#4CAF4F]'>business reinvent itself</span></h3>

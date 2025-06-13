@@ -9,7 +9,7 @@ import Send from "../assets/send.svg"
 const Footer = () => {
   return (
     <div>
-        <div className='bg-[#263238] py-15'>
+        <div className='bg-[#263238] py-15 overflow-x-hidden'>
             <div className='flex  flex-col md:flex-row justify-between md:w-[70%] justify-self-center'>
                 <div className='flex flex-col'>
                   <a href="/" className="flex flex-row">

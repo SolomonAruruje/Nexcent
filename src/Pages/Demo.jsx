@@ -3,7 +3,7 @@ import Rightarrow from "../assets/Brightarrow.svg"
 
 const Demo = () => {
   return (
-    <div className='flex justify-center items-center w-[100%] bg-[#F5F7FA]'>
+    <div className='flex justify-center items-center w-[100%] bg-[#F5F7FA] overflow-x-hidden'>
         <div className='w-[75%] py-6 flex flex-col text-center items-center'>
             <h1 className='text-[44.55px]/[52.9px] text-[#263238] md:w-[75%] font-semibold'>Pellentesque suscipit fringilla libero eu.</h1>
             <a href="#">

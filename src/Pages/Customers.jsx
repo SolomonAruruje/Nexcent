@@ -11,7 +11,7 @@ import Pic from "../assets/image 9.svg"
 
 const Customers = () => {
   return (
-    <div className='bg-[#F5F7FA] py-5'>
+    <div className='bg-[#F5F7FA] py-5 overflow-x-hidden'>
         <div className='w-[75%] flex flex-col md:flex-row items-center justify-center justify-self-center'>
         <div className='mr-7'>
             <img src={Pic} alt="" />

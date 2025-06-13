@@ -3,7 +3,7 @@ import Banner1 from '../Components/Banner.jsx'
 
 const Insights = () => {
   return (
-    <div>
+    <div className='overflow-x-hidden'>
         <Banner1/>
     </div>
   )

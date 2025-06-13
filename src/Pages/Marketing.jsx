@@ -7,7 +7,7 @@ import image3 from "../assets/image 20.svg"
 
 const Marketing = () => {
   return (
-    <div className='w-[100%] py-5'>
+    <div className='w-[100%] py-5 overflow-x-hidden'>
         <div className='w-[70%] justify-center justify-self-center'>
             <div className='flex flex-col items-center text-center justify-self-center'>
                 <h3 className='text-[25.06px]/[30.63px] text-[#4D4D4D] font-semibold'>Caring is the new marketing</h3>

@@ -14,7 +14,7 @@ const Blog2 = () => {
     }
   ]
   return (
-    <div className=''>
+    <div className='overflow-x-hidden'>
             {BannerD?.map((details) => (
                 
                 <div>
