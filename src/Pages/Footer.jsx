@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from "../assets/LogoIcon.svg"
-import Instagram from "../assets/Instagram.svg"
+import Instagram from "../assets/instagram.svg"
 import Dribble from "../assets/Website.svg"
 import Twitter from "../assets/Twitter.svg"
 import Youtube from "../assets/Youtube.svg"
