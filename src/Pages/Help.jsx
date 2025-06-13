@@ -12,9 +12,9 @@ const Help = () => {
             <h3 className='text-[25.06px]/[30.63px] text-[#4D4D4D] font-semibold'>Helping a local <span className='text-[#4CAF4F]'>business reinvent itself</span></h3>
             <p className='text-[11.14px]/[16.71px] font-normal text-[#18191F]'>We reached here with our hard work and dedication</p>
         </div>
-        <div className='w-[50%] sm:w-[] flex-wrap justify-items-end'>
-        <div className='flex flex-row mt-8 md:mt-0'>
-            <div className='flex flex-row items-center w-[280px] md:w-[150px] mr-15'>
+        <div className='w-[50%] sm:w-[] flex-wrap '>
+        <div className='flex flex-col md:flex-row mt-8 md:mt-0'>
+            <div className='flex flex-row items-center w-[280px] md:w-[150px] md:mr-15'>
                 <div className='md:mr-2.5'>
                     <img src={members} alt="img" className='w-full'/>
                 </div>
@@ -33,8 +33,8 @@ const Help = () => {
                 </div>
             </div>
         </div>
-        <div className='flex flex-row mt-7 md:mt-8'>
-            <div className='flex flex-row items-center w-[280px] md:w-[150px] mr-15'>
+        <div className='flex flex-col md:flex-row mt-7 md:mt-8'>
+            <div className='flex flex-row items-center w-[280px] md:w-[150px] md:mr-15'>
                 <div className='md:mr-2.5'>
                     <img src={Event} alt="img" className='w-full'/>
                 </div>
